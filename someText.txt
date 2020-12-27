@@ -1,0 +1,3 @@
+Hello Guys, i am trying to get along with git and 
+i am trying to do that in my own project,
+so don't pay attention to this file.
