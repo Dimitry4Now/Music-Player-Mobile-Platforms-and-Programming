@@ -1,8 +1,7 @@
 # Mobile Platforms and Programming
 
 
-## A simple music player for android platform. Not a big deal, just a project for a subject.
+#### A simple music player for android platform. Not a big deal, just a project for a subject.
 
 - [x] Basic UI
-- [x] Firebase as DataBase
-- [x] Favorites list
+- [x] Firebase as Database
